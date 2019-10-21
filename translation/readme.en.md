@@ -1,57 +1,57 @@
 ![](img/hacktoberfest.png)
 
-baca halaman ini di [:india:](https://github.com/ShuLaPy/hacktoberfest-2019/blob/english-documentation/translation/readme.en.md)
+read this page in [:indonesia:](https://github.com/ShuLaPy/hacktoberfest-2019/blob/master/readme.md)
 
 # hacktoberfest-2019
 
-Seru seruan hacktoberfest 2019 :checkered_flag:
+hacktoberfest 2019 :checkered_flag:
 
 # What is Hacktoberfest?
 
-[Hacktoberfest](hacktoberfest.digitalocean.com) merupakan program dari Digitalocean dan github dimana kita dapat kaos gratis hanya dengan melakukan 4x pull request di bulan Oktober ke sebuah open source projek di github.
+[Hacktoberfest](hacktoberfest.digitalocean.com) is a program from Digital Ccean and Dev where we can get free T-shirts just by making a 4x pull request in October to an open source project on github.
 
-## :pushpin: Syarat mengikut
+## :pushpin: Terms to Follow
 
-- Sudah terinstall git
-- Bisa dasar git
-- Mau belajar
+- Git Already Installed in your machine
+- Some basic Git knowledge
+- Curious to Learn
 
-## :scroll: Step mengikuti event
+## :scroll: Bellow are the steps to Participate in Event
 
-1. Daftarkan akunmu [disini](https://hacktoberfest.digitalocean.com)
+1. Register a Account [here](https://hacktoberfest.digitalocean.com)
 
-2. Kemudian fork repo ini ya
+2. Then fork this repo
 
-3. Buat branch baru, jangan pake master ya
+3. Create a new branch, don't use the master
 
-4. Kemudian taruh karya terbaik kalian pada folder netizen, dan penamaan folder berdasarkan username kalian.
+4. Then put your best work in the netizen folder, and name the folder as your username.
 
-5. Lakukan Pull Request ke branch master dari repo ini
+5. Make a Pull Request to the master branch of this repo
 
-6. jangan lupa :star2: repo ini dan cantumkan username github kalian di bagian kontributor
+6. do not forget star2 this repo and include your github username in the contributor section.
 
-## :zap: Tutorial Kilat
+## :zap: Quick Tutorial
 
 ### Clone Project
 
 ```
-git clone https://github.com/{ username kamu }/hacktoberfest-2019.git
+git clone https://github.com/{ Your Username }/hacktoberfest-2019.git
 
 cd hacktoberfest-2019
 ```
 
-### Buat branch baru
+### Create a new branch
 
 ```
-git checkout -b branch-baruku
+git checkout -b new-branch
 ```
 
-### Tambahkan kontibusi kamu
+### Add your contribution
 
-- buat folder baru dengan username kamu dan isi folder dengan projek terbaikmu
-- Tambahkan username github pada kontributor dibawah ya
+- create a new folder with your username and fill the folder with your best projects
+- Add the github username to the contributors list below
 
-### Commit dan Push
+### Commit and Push
 
 ```
 git add .
@@ -59,9 +59,9 @@ git commit -m "your-commit-msg"
 git push origin my-new-branch
 ```
 
-dan buat Pull Request ke branch master
+and make a Pull Request to the master branch.
 
-## :trollface: Kontributor
+## :trollface: Contributors
 
 - [@ardananjungkusuma](https://github.com/ardananjungkusuma)
 - [@azzahrads](https://github.com/azzahrads)
